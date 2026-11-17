@@ -1,0 +1,20 @@
+00:00:00.430850 VirtualBox GUI VM Selector Window 6.1.48 r159471 win.amd64 (Oct 12 2023 10:47:43) release log
+00:00:00.430852 Log opened 2026-03-12T07:58:48.380870400Z
+00:00:00.430852 Build Type: release
+00:00:00.430855 OS Product: Windows 10
+00:00:00.430855 OS Release: 10.0.19045
+00:00:00.430856 OS Service Pack: 
+00:00:00.439109 DMI Product Name: H510M S2 V2
+00:00:00.441673 DMI Product Version: -CF
+00:00:00.441679 Firmware type: UEFI
+00:00:00.441868 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:00.441878 Host RAM: 16301MB (15.9GB) total, 13043MB (12.7GB) available
+00:00:00.441881 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.441882 Process ID: 7760
+00:00:00.441882 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.441961 Qt version: 5.6.2
+00:00:00.451467 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.801865 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:00.818238 refreshCertificates/#3: Found 1/39 SSL certs we/you trust (previously 1/39).
+00:00:25.028602 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:25.568023 GUI: UIMediumEnumerator: Medium-enumeration finished!
